@@ -1,1 +1,2 @@
 MAX_CHARACTERS = 10000
+WORKING_DIR = "./calculator"
